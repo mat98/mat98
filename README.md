@@ -4,8 +4,6 @@ This is a guide file to search the projects based on the ID of each project.
 <br>
 Search for the respective guid in the filter field
 <br>
-## Dart 💙
-41e45037-3790-40b6-9a6f-578d83bca069 | Flutter Course Udemy (Developing...)
 
 <!--
 **mat98/mat98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
