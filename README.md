@@ -5,6 +5,12 @@ This is a guide file to search the projects based on the ID of each project.
 Search for the respective guid in the filter field
 <br>
 
+📚 Learning
+
+
+
+👷‍♂️ Hands-on work
+
 <!--
 **mat98/mat98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
