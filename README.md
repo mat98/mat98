@@ -1,3 +1,4 @@
+~eng
 ### Hi there 👋
 
 I am a programming enthusiast, I am always looking to improve myself and here you will find the results of that, with public projects to serve as a guide material or as a basis for creating new features
@@ -5,6 +6,11 @@ I am a programming enthusiast, I am always looking to improve myself and here yo
 
 📚 Keep Learning... and 👷‍♂️ Hands-on work
 
+~pt-br
+### Olá pessoal 👋
+Prazer, eu sou um entusiasta da programação, estou sempre buscando me aprimorar e aqui você encontrará os resultados disso, com projetos públicos para servir como um material de guia ou como base para criação de novas funcionalidades
+
+📚 Continue aprendendo... e 👷‍♂️ Mãos a obra
 <!--
 **mat98/mat98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
