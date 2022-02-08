@@ -1,15 +1,9 @@
 ### Hi there 👋
 
-This is a guide file to search the projects based on the ID of each project.
-<br>
-Search for the respective guid in the filter field
-<br>
-
-📚 Learning
+I am a programming enthusiast, I am always looking to improve myself and here you will find the results of that, with public projects to serve as a guide material or as a basis for creating new features
 
 
-
-👷‍♂️ Hands-on work
+📚 Keep Learning... and 👷‍♂️ Hands-on work
 
 <!--
 **mat98/mat98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
