@@ -14,7 +14,7 @@ Prazer, eu sou um entusiasta da programação, estou sempre buscando me aprimora
 
 ---
 Projetos:
-1. coderstocks98x -> projeto utilizado para simular a compra e venda de ações, baseado no curso da Cod3r Cursos
+1️⃣ coderstocks98x -> projeto utilizado para simular a compra e venda de ações, baseado no curso da Cod3r Cursos
 <!--
 **mat98/mat98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
