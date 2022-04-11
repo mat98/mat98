@@ -7,8 +7,8 @@ I am a programming enthusiast, I am always looking to improve myself and here yo
 ## Projects:
 <br>
 1️⃣ coderstocks98x -> Project used to simulate the buying and selling of stocks, based on the Cod3r Course
-- repo -> https://github.com/mat98/coderstocks98x
+- repo -> https://github.com/mat98/coderstocks98x <br>
 - v1 -> https://msantos-stocks.herokuapp.com
 
 ## One step at a time
-Work under construction =====> cardstorage98x
+Work under construction => cardstorage98x
