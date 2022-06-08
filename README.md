@@ -12,7 +12,7 @@ I am a programming enthusiast, I am always looking to improve myself and here yo
 <br>
 2️⃣ monsterslayer98x -> Your mission is to make the viking win this fight <br>
 &nbsp; . repo -> https://github.com/mat98/monsterslayer98x <br>
-&nbsp; . v1 -> https://mat98.github.io/monsterslayer98x/
+&nbsp; . v1 -> [https://mat98.github.io/monsterslayer98x/](https://mat98.github.io/monsterslayer98x-front/)
 
 ## One step at a time
 Work under construction => cardstorage98x
