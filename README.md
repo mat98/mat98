@@ -6,13 +6,11 @@ I am a programming enthusiast, I am always looking to improve myself and here yo
 
 ## Projects:
 1️⃣ coderstocks98x -> Project used to simulate the buying and selling of stocks, based on the Cod3r Course <br>
-&nbsp; . repo -> https://github.com/mat98/coderstocks98x <br>
-&nbsp; . v1 -> https://msantos-stocks.herokuapp.com
+&nbsp; . v1 -> [https://github.com/mat98/coderstocks98x](https://coderstocks98x.netlify.app/)
 <br>
 <br>
 2️⃣ monsterslayer98x -> Your mission is to make the viking win this fight <br>
-&nbsp; . repo -> https://github.com/mat98/monsterslayer98x <br>
-&nbsp; . v1 -> [https://mat98.github.io/monsterslayer98x/](https://mat98.github.io/monsterslayer98x-front/)
+&nbsp; . v1 -> [[https://mat98.github.io/monsterslayer98x/](https://mat98.github.io/monsterslayer98x-front/)](https://monsterslayer98x.netlify.app)
 
 ## One step at a time
 Work under construction => cardstorage98x
