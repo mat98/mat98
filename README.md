@@ -17,6 +17,6 @@ I am a programming enthusiast, I am always looking to improve myself and here yo
 ## One step at a time
 Work under construction => cardstorage98x
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mat98)](https://https://github.com/mat98/mat98)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mat98)](https://https://github.com/mat98/mat98)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mat98&count_private=true)
-
+ -->
