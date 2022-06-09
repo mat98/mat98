@@ -6,7 +6,7 @@ I am a programming enthusiast, I am always looking to improve myself and here yo
 
 ## Projects:
 1️⃣ coderstocks98x -> Project used to simulate the buying and selling of stocks, based on the Cod3r Course <br>
-&nbsp; . v1 -> [https://github.com/mat98/coderstocks98x](https://coderstocks98x.netlify.app/)
+&nbsp; . v1 -> https://coderstocks98x.netlify.app/
 <br>
 <br>
 2️⃣ monsterslayer98x -> Your mission is to make the viking win this fight <br>
