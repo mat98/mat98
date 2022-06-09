@@ -10,7 +10,6 @@ I am a programming enthusiast, I am always looking to improve myself and here yo
 <br>
 2️⃣ monsterslayer98x | Your mission is to make the viking win this fight | https://monsterslayer98x.netlify.app/
 <br>
-<br>
 ## One step at a time
 - https://github.com/mat98/zip-publics-front
 - https://github.com/mat98/zip-publics-back
