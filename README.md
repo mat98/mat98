@@ -10,7 +10,7 @@ I am a programming enthusiast, I am always looking to improve myself and here yo
 <br>
 <br>
 2️⃣ monsterslayer98x -> Your mission is to make the viking win this fight <br>
-&nbsp; . v1 -> [[https://mat98.github.io/monsterslayer98x/](https://mat98.github.io/monsterslayer98x-front/)](https://monsterslayer98x.netlify.app)
+&nbsp; . v1 -> https://monsterslayer98x.netlify.app/
 
 ## One step at a time
 Work under construction => cardstorage98x
