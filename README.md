@@ -6,3 +6,13 @@ I am a programming enthusiast, I am always looking to improve myself and here yo
 
 ## Projects:
 - https://coderstocks98x.netlify.app/
+
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ardalis&show_icons=true&theme=dark" alt="ardalis" />
+<div/>
+<br />
+  
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardalis&layout=compact&hide=html&theme=dark" alt="ardalis" />
+<div/>
+<br />
