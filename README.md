@@ -5,7 +5,9 @@ I am a programming enthusiast, I am always looking to improve myself and here yo
 📚 Keep Learning... and 👷‍♂️ Hands-on work
 
 ## Projects:
+- https://matdevfolio.netlify.app/
 - https://coderstocks98x.netlify.app/
+- https://monsterslayer98x.netlify.app/
 
 <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mat98&show_icons=true&theme=dark" alt="mat98" />
