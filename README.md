@@ -1,15 +1,6 @@
 # Olá 👋
 
-sou apenas mais um entusiasta da programação, estou sempre à procura de me aperfeiçoar!
-
-! coisas que opto utilizar para diversão
-- vuejs
-- nodejs ( nestjs )
-
-! coisas que opto utilizar para sistemas robustos
-- angular
-- nodejs ( nestjs )
-- dotnet
+Sempre buscando tentar deixar o meu código mais minimalista e simples, porque isso é de certa forma elegante, digo não é só elegante, é eficiente e fácil de manter!
 
 <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mat98&show_icons=true&theme=dark" alt="mat98" />
