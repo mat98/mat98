@@ -1,13 +1,16 @@
-# Hi there 👋
+# Olá 👋
 
-I am a programming enthusiast, I am always looking to improve myself!
+sou um entusiasta da programação, estou sempre à procura de me aperfeiçoar!
 
-📚 Keep Learning... and 👷‍♂️ Hands-on work
+! coisas que opto utilizar para diversão
+- python
+- react native
+- vuejs
 
-## Projects:
-- https://matdevfolio.netlify.app/
-- https://coderstocks98x.netlify.app/
-- https://monsterslayer98x.netlify.app/
+! coisas que opto utilizar para sistemas robustos
+- angular
+- nodejs ( nestjs )
+- flutter
 
 <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mat98&show_icons=true&theme=dark" alt="mat98" />
