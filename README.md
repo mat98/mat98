@@ -1,6 +1,6 @@
 # Olá 👋
 
-sou um entusiasta da programação, estou sempre à procura de me aperfeiçoar!
+sou apenas mais um entusiasta da programação, estou sempre à procura de me aperfeiçoar!
 
 ! coisas que opto utilizar para diversão
 - python
