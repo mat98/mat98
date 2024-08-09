@@ -4,7 +4,7 @@ sou apenas mais um entusiasta da programação, estou sempre à procura de me ap
 
 ! coisas que opto utilizar para diversão
 - vuejs
-- python
+- nodejs ( nestjs )
 
 ! coisas que opto utilizar para sistemas robustos
 - angular
