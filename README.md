@@ -1,5 +1,5 @@
 # Olá 👋
-! sempre buscando tentar deixar o meu código mais minimalista e simples possível!
+I alway try to make my code as minimalist and simple as possible.
 
 <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mat98&show_icons=true&theme=dark" alt="mat98" />
@@ -13,3 +13,4 @@
 
 Projetos
 - 684235: Vuejs | Cod3r | Simulador de Investimentos
+- 356104: Generative AI for NodeJs: OpenAI, LangChain - TypeScript
