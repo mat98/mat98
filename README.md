@@ -1,4 +1,4 @@
-# Olá 👋
+# Hello 👋
 I alway try to make my code as minimalist and simple as possible.
 
 <div>
@@ -11,7 +11,7 @@ I alway try to make my code as minimalist and simple as possible.
 <div/>
 <br />
 
-Projetos
+Projects
 <br>
 🔹 684235: Cod3r - Simulador de Investimentos ( VUEJS )
 <br>
