@@ -12,5 +12,5 @@ I alway try to make my code as minimalist and simple as possible.
 <br />
 
 Projetos
-- 684235: Vuejs | Cod3r | Simulador de Investimentos
-- 356104: Generative AI for NodeJs: OpenAI, LangChain - TypeScript
+🔹 684235: Cod3r - Simulador de Investimentos ( VUEJS )
+🔹 356104: Generative AI for NodeJs: OpenAI, LangChain - TypeScript
