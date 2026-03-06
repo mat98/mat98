@@ -1,8 +1,10 @@
-# Hello 👋
-I alway try to make my code as minimalist and simple as possible.
+mat98 | Full Stack Developer | São Paulo, Brazil
+About
+I'm passionate about writing minimalist, simple and efficient code. I believe the best solution is one that's easy to understand, maintain and scale.
 
-<br />
-<div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mat98&layout=compact&hide=html&theme=dark" alt="ardalis" />
-<div/>
-<br />
+Projects | Build To Learn
+
+Trader VueJS - Trading application built with Vue.js
+Portfolio Simple Showcase - Minimalist portfolio in Vue.js
+IA Node.js - AI integration using TypeScript and Node.js
+JavaScript Animations - Advanced animation techniques
