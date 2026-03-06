@@ -1,18 +1,12 @@
-mat98 | Full Stack Developer | São Paulo, Brazil
-<br>
-About
-<br>
-I'm passionate about writing minimalist, simple and efficient code. I believe the best solution is one that's easy to understand, maintain and scale.
-<br>
-Projects | Build To Learn
-<br>
-<br>
+# Mateus Santos  | Full Stack Developer | São Paulo, Brazil
 
-Trader VueJS - Trading application built with Vue.js
-<br>
-Portfolio Simple Showcase - Minimalist portfolio in Vue.js
-<br>
-IA Node.js - AI integration using TypeScript and Node.js
-<br>
-JavaScript Animations - Advanced animation techniques
-<br>
+## About
+
+I'm passionate about writing minimalist, simple and efficient code. I believe the best solution is one that's easy to understand, maintain and scale.
+
+## Projects | Build To Learn
+
+- **Trader VueJS** - Trading application built with Vue.js
+- **Portfolio Simple Showcase** - Minimalist portfolio in Vue.js
+- **IA Node.js** - AI integration using TypeScript and Node.js
+- **JavaScript Animations** - Advanced animation techniques
