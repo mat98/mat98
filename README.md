@@ -7,6 +7,4 @@ I'm passionate about writing minimalist, simple and efficient code. I believe th
 ## Projects | Build To Learn
 
 - **Trader VueJS** - Trading application built with Vue.js
-- **Portfolio Simple Showcase** - Minimalist portfolio in Vue.js
-- **IA Node.js** - AI integration using TypeScript and Node.js
 - **JavaScript Animations** - Advanced animation techniques
